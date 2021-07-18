@@ -8,7 +8,9 @@ This project was developed in Unity using the C# language.
 
 Credits go to:
 Programming - me, SneakySteve (https://sneakysteve.itch.io/)
+
 Graphics and Animation - elexivv (https://elexivv.itch.io/)
+
 Sound Design - CasVDG (https://casvdg.itch.io/)
 
 Submission page for the game - https://itch.io/jam/historically-accurate-4/rate/1105165

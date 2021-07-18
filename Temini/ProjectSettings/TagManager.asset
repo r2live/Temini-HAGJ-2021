@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - StartRoom
+  - MainLevel
+  - BossRoom
+  - Memory
+  - Enemy
+  - Health Bar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2113307293
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: StarBrotherM
+    uniqueID: 2621837951
+    locked: 0
+  - name: Coy
+    uniqueID: 1003809593
+    locked: 0
+  - name: Huitzil
+    uniqueID: 1633281235
+    locked: 0
+  - name: foreground
+    uniqueID: 106146645
+    locked: 0
+  - name: UI
+    uniqueID: 872710525
+    locked: 0

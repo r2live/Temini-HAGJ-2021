@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b18390710c58c1a4d881633b94b50537
+  - enabled: 1
+    path: Assets/Scenes/Room1.unity
+    guid: 7bba74bc4a1f22144b9502c27e9c8f46
+  - enabled: 1
+    path: Assets/Scenes/Room2.unity
+    guid: a5a036f5bb46ec644b08f7aedaefcaf1
+  - enabled: 1
+    path: Assets/Scenes/Room3.unity
+    guid: 2ed4c8dfe25091648870c4c8e050cc01
+  - enabled: 1
+    path: Assets/Scenes/BossRoom.unity
+    guid: 8e11dee750e382e45b4c581ef9f0495d
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/OpeningCutscene.unity
+    guid: 1dbb3676f88a9ae4e80682f66e53111a
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/PostBossFight.unity
+    guid: e7fde6cf821ece84e866a6e0d2d5ffcc
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/PreBossFight.unity
+    guid: d244151a7cbc7624bbd6202007e1becf
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: ebc7528f1176bce4d9f35a7856aa8fda
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: fed94d68d77b4ae478320836e43eb353
+  m_configObjects: {}

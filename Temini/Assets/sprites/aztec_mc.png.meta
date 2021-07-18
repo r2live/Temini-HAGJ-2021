@@ -1,0 +1,693 @@
+fileFormatVersion: 2
+guid: b32fe84844546eb458e865000b3d738d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3078464344915247246
+    second: aztec_mc_0
+  - first:
+      213: -1474221675248212016
+    second: aztec_mc_1
+  - first:
+      213: -8316542245788219961
+    second: aztec_mc_2
+  - first:
+      213: 3064903488248307152
+    second: aztec_mc_3
+  - first:
+      213: -85596874444637556
+    second: aztec_mc_4
+  - first:
+      213: 7246716571232488261
+    second: aztec_mc_5
+  - first:
+      213: -7984982437538685484
+    second: aztec_mc_6
+  - first:
+      213: 5375481065856128631
+    second: aztec_mc_7
+  - first:
+      213: 7587295728543625347
+    second: aztec_mc_8
+  - first:
+      213: -4939170536856725627
+    second: aztec_mc_9
+  - first:
+      213: 5038743409072441446
+    second: aztec_mc_10
+  - first:
+      213: -6163822154376566135
+    second: aztec_mc_11
+  - first:
+      213: -3256790186096904690
+    second: aztec_mc_12
+  - first:
+      213: 1445210855050546968
+    second: aztec_mc_13
+  - first:
+      213: -3646143168487543029
+    second: aztec_mc_14
+  - first:
+      213: -6847638015080826841
+    second: aztec_mc_15
+  - first:
+      213: -5360301373444855481
+    second: aztec_mc_16
+  - first:
+      213: 7468266781422999373
+    second: aztec_mc_17
+  - first:
+      213: 7003445814526448289
+    second: aztec_mc_18
+  - first:
+      213: 3450763644640256615
+    second: aztec_mc_19
+  - first:
+      213: -5440425062364278005
+    second: aztec_mc_20
+  - first:
+      213: -1316467948302345956
+    second: aztec_mc_21
+  - first:
+      213: 2608672527613391145
+    second: aztec_mc_22
+  - first:
+      213: 5331117190345230820
+    second: aztec_mc_23
+  - first:
+      213: -6391936551910379274
+    second: aztec_mc_24
+  - first:
+      213: -5642324176950480547
+    second: aztec_mc_25
+  - first:
+      213: 8714150766948647105
+    second: aztec_mc_26
+  - first:
+      213: -5122101686701880706
+    second: aztec_mc_27
+  - first:
+      213: -226877556037277072
+    second: aztec_mc_28
+  - first:
+      213: 7458576982300658272
+    second: aztec_mc_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aztec_mc_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 491
+        width: 62
+        height: 59
+      alignment: 9
+      pivot: {x: 0.60982317, y: 0.853287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e800164e207e8ba20800000000000000
+      internalID: 3078464344915247246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 489
+        width: 33
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5561292, y: 0.9441839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d726a672338a8be0800000000000000
+      internalID: -1474221675248212016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 506
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c58340f3e4b59c80800000000000000
+      internalID: -8316542245788219961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 440
+        width: 131
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd55e7eb79b88a20800000000000000
+      internalID: 3064903488248307152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 328
+        width: 91
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8af7d0a816efcef0800000000000000
+      internalID: -85596874444637556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 405
+        width: 51
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3675157, y: 0.9313821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bcf38a352819460800000000000000
+      internalID: 7246716571232488261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 279
+        width: 106
+        height: 215
+      alignment: 9
+      pivot: {x: 0.80074495, y: 0.47718862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd16c087c4af2190800000000000000
+      internalID: -7984982437538685484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 359
+        width: 19
+        height: 65
+      alignment: 9
+      pivot: {x: 0.53226835, y: 0.87726533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3807ea1144d7b4960800000000000000
+      internalID: 7587295728543625347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 359
+        width: 20
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49999848, y: 0.86783403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6688a142f663de540800000000000000
+      internalID: 5038743409072441446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 359
+        width: 28
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5437905, y: 0.8916749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aa3bd6864b57aa0800000000000000
+      internalID: -6163822154376566135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 112
+        width: 125
+        height: 319
+      alignment: 9
+      pivot: {x: 0.18121044, y: 0.24632144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0637b9b49e8dc2d0800000000000000
+      internalID: -3256790186096904690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 241
+        width: 43
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5427711, y: 0.90216506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f83d89d9b6e0410800000000000000
+      internalID: 1445210855050546968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 278
+        width: 21
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50000143, y: 0.8808381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f251a3b1c466dc0800000000000000
+      internalID: -3646143168487543029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 278
+        width: 19
+        height: 66
+      alignment: 9
+      pivot: {x: 0.46704423, y: 0.9269127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72875a0718d48f0a0800000000000000
+      internalID: -6847638015080826841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 272
+        width: 16
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5383167, y: 0.03600999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d475192b11d94a760800000000000000
+      internalID: 7468266781422999373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 158
+        width: 87
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5775131, y: 0.9276259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a29b8accdc313160800000000000000
+      internalID: 7003445814526448289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 123
+        width: 78
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7626d9a704393ef20800000000000000
+      internalID: 3450763644640256615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 109
+        width: 72
+        height: 151
+      alignment: 9
+      pivot: {x: 0.64474994, y: 0.21174157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0315aafa3abf74b0800000000000000
+      internalID: -5440425062364278005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 153
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92177bfa7ddd33420800000000000000
+      internalID: 2608672527613391145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 106
+        width: 72
+        height: 27
+      alignment: 9
+      pivot: {x: 0.8831603, y: 0.545411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c00c27f3f1eee870800000000000000
+      internalID: 8714150766948647105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 108
+        width: 79
+        height: 18
+      alignment: 9
+      pivot: {x: 0.06323013, y: 0.464486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a84bc67a3aae8b0800000000000000
+      internalID: -5122101686701880706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 208
+        height: 89
+      alignment: 9
+      pivot: {x: 0.9332659, y: 0.41734037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aa3e89018f9dcf0800000000000000
+      internalID: -226877556037277072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aztec_mc_29
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 30
+        width: 211
+        height: 59
+      alignment: 9
+      pivot: {x: 0.23850673, y: 0.44804582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a8fe78f30328760800000000000000
+      internalID: 7458576982300658272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
